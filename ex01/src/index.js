@@ -3,4 +3,5 @@ function reusableFunction() {
 }
 
 reusableFunction();
+
 module.exports = reusableFunction;
