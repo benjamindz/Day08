@@ -11,7 +11,7 @@ function function2() {
         result += "myGlobalVariable: " + myGlobalVariable;
     }
     if (typeof notGlobalVariable != "undefined") {
-        result +- " notGlobalVariable: " + notGlobalVariable;
+        result += " notGlobalVariable: " + notGlobalVariable;
     }
     console.log(result);
 }
